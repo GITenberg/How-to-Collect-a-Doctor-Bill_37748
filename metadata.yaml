@@ -1,0 +1,32 @@
+_repo: How-to-Collect-a-Doctor-Bill_37748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Franklyn Pierre
+    alias: Davis, Frank P. (Pierre)
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '39030'
+    url: http://www.gutenberg.org/2009/agents/39030
+description: ''
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Practice -- Management'
+- !lcc 'HF'
+- !lcsh 'Jurisprudence'
+- !lcsh 'Collecting of accounts'
+tableOfContents: The successful physician -- Attitude toward debtors -- Proper time
+  to collect -- Books and bookkeeping -- Letters and forms -- Statutes of limitations
+  -- Exemption laws and their application -- Extracts from exemption laws of all states.
+title: How to Collect a Doctor Bill
+url: http://www.gutenberg.org/ebooks/37748
